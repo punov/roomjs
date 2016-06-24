@@ -1,0 +1,25 @@
+{
+  "name": "roomjs",
+  "version": "1.0.0",
+  "description": "Simplest lib to create 3D Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punov/roomjs.git"
+  },
+  "keywords": [
+    "3D",
+    "css3D",
+    "web",
+    "site"
+  ],
+  "author": "Aleksei Punov <alexey.punov@gmail.com> (http://punov.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punov/roomjs/issues"
+  },
+  "homepage": "https://github.com/punov/roomjs#readme"
+}
